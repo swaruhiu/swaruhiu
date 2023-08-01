@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swaruhiu/static/css/main.e3942df3.css",
+    "main.js": "/swaruhiu/static/js/main.15ea08c5.js",
+    "static/js/787.cd60e207.chunk.js": "/swaruhiu/static/js/787.cd60e207.chunk.js",
+    "index.html": "/swaruhiu/index.html",
+    "main.e3942df3.css.map": "/swaruhiu/static/css/main.e3942df3.css.map",
+    "main.15ea08c5.js.map": "/swaruhiu/static/js/main.15ea08c5.js.map",
+    "787.cd60e207.chunk.js.map": "/swaruhiu/static/js/787.cd60e207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3942df3.css",
+    "static/js/main.15ea08c5.js"
+  ]
+}
