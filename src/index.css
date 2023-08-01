@@ -1,0 +1,10 @@
+body {
+  margin: 2rem;
+  height: 100%;
+  font-family: "IM Fell DW Pica", serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
