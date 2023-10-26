@@ -5,6 +5,6 @@
 <br />
 
 - 🔭 &ensp;I’m currently working on building Apps!
-- 🌱 &ensp;I’m currently learning Flutter and React Native ❤️
+- 🌱 &ensp;I’m currently learning Flutter ❤️ and Next.js
 - 👯 &ensp;I’m looking to collaborate with other content creators.
 - ⚡ &ensp;Fun fact: I love football ⚽️ & chess ♜
