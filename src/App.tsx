@@ -20,7 +20,7 @@ function App() {
         <ul>
           <li>
             <p>🔭 &ensp;I’m currently working on building Apps!</p>
-            <p>🌱 &ensp;I’m currently learning Flutter and React Native ❤️</p>
+            <p>🌱 &ensp;I’m currently learning Flutter ❤️ and Next.js</p>
             <p>
               👯 &ensp;I’m looking to collaborate with other content creators.
             </p>
