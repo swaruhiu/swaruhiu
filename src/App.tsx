@@ -23,7 +23,7 @@ function App() {
               🔭 &ensp;I’m currently working on building Apps and Python
               programs!
             </p>
-            <p>🌱 &ensp;I’m currently learning Flutter ❤️</p>
+            <p>🌱 &ensp;I’m currently learning Flutter ❤️ and Next.js</p>
             <p>
               👯 &ensp;I’m looking to collaborate with other content creators.
             </p>
