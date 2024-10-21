@@ -25,7 +25,7 @@ function App() {
             </p>
             <p>🌱 &ensp;I’m currently learning Go ❤️ and Next.js.</p>
             <p>
-              👯 &ensp;I’m looking to collaborate with other content creators.
+              👯 &ensp;I’m looking to collaborate with other engineers.
             </p>
             <p>⚡ &ensp;Fun fact: I love football ⚽️ & chess ♜</p>
           </li>
